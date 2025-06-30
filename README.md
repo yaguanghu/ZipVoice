@@ -403,7 +403,7 @@ python3 zipvoice/infer.py \
 
 ### 4. Evaluation on benchmarks
 
-See [local/evaluate.sh](local/evaluate.sh) for details of objective metrics evaluation
+See [scripts/evaluate.sh](scripts/evaluate.sh) for details of objective metrics evaluation
 on three test sets, i.e., LibriSpeech-PC test-clean, Seed-TTS test-en and Seed-TTS test-zh.
 
 ## Discussion & Communication
